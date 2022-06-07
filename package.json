@@ -1,0 +1,15 @@
+{
+  "name": "kendo-temple-site",
+  "version": "1.0.0",
+  "description": "Kendo site",
+  "main": "GLTFLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy" : "gh-pages -d dist"
+  },
+  "author": "KTteam",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
