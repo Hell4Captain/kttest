@@ -35,7 +35,7 @@ body {
      animation: fade-inout 5s infinite alternate;
     font-size: 6rem;
     text-transform: uppercase;
-    color:darkslategrey;
+    color:rgb(255, 255, 255);
   }
   
 
